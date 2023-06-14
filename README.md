@@ -7,6 +7,8 @@ This is a web application that allows users to view and manage topics. Users can
 - Filter topics by category.
 - Add new topics with keywords and category.
 - Delete existing topics.
+- Implimented Caching using react Query
+- instead of hard coded data, hosted JSON data on web server , to showcase API integration
 
 ## Technologies Used
 
@@ -36,7 +38,6 @@ Once the application is running, you can perform the following actions:
 - Filter topics: Click on the category buttons to filter the topics by category.
 - Add a new topic: Click on the "Add Topic" button to open a modal. Enter the topic, keywords (comma-separated), and select a category from the dropdown. Click "Save" to add the new topic.
 - Delete a topic: Click on the delete button next to a topic to open a confirmation modal. Click "Confirm" to delete the topic.
-- Implimented Caching using react Query
 
 ## Feedback
 
