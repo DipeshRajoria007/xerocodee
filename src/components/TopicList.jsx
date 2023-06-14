@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import { useState } from "react";
 import { useQuery, useQueryClient } from "react-query";
-import Modal from "./modal";
+import Modal from "./Modal";
 import Spinner from "./Spinner";
 import { AiTwotoneDelete } from "react-icons/ai";
 import DeleteConfirmationModal from "./DeleteConfirmationModal";
