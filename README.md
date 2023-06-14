@@ -24,10 +24,10 @@ No external dependencies were used in this project. All components and functiona
 
 To get started with the project, follow these steps:
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/DipeshRajoria007/xerocodee.git`
 2. Install the necessary dependencies: `npm install`
-3. Start the development server: `npm start`
-4. Open the application in your browser: `http://localhost:3000`
+3. Start the development server: `npm run dev`
+4. Open the application in your browser: `http://localhost:5713`
 
 ## Usage
 
@@ -36,6 +36,7 @@ Once the application is running, you can perform the following actions:
 - Filter topics: Click on the category buttons to filter the topics by category.
 - Add a new topic: Click on the "Add Topic" button to open a modal. Enter the topic, keywords (comma-separated), and select a category from the dropdown. Click "Save" to add the new topic.
 - Delete a topic: Click on the delete button next to a topic to open a confirmation modal. Click "Confirm" to delete the topic.
+- Implimented Caching using react Query
 
 ## Feedback
 
